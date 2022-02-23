@@ -1,2 +1,2 @@
 "# TypeSrcipt_OrientacaoObjetos" 
-# Relembrança conceitos javaScript / typeScript
+# Reforçando conceitos javaScript / typeScript
